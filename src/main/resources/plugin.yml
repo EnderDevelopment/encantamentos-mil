@@ -1,0 +1,9 @@
+name: EnchantedItems
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  encantamentos:
+    description: Gives one level 1000 enchanted book for every enchantment and the custom items.
+    usage: /encantamentos
+    aliases: [enchantkit]
